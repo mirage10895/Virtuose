@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Virtuose</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- SearchActivity -->
+    <string name="base_url">https://api.genius.com/</string>
+    <string name="token">Bearer mrFhfOCv3eDIlYg_Wxqoj6fTh9eN2nox2-o58cFEVWOTXGyFD7pFcXvFBFg9NxM4</string>
+
+    <!-- SearchActivity -->
+    <string name="txt_search">Type your search here</string>
+</resources>
